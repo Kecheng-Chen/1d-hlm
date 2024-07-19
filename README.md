@@ -4,6 +4,8 @@ Contains data from the model validation in the 1D Heat Loss Models to Predict th
 
 <img src="model.png" width="800px"/>
 
-**1D Heat Loss Models to Predict the Aquifer Temperature Profile during Hot/Cold Water Injection**  
-Kecheng Chen, Xiang Sun, Kenichi Soga, Patrick F Dobson, and Peter S Nico   
-In Geothermal Rising Conference 2021.
+## References
+<a id="1">[1]</a> 
+Chen, K., Sun, X., Soga, K., Dobson, P. F., and Nico, P. S. (2021). 
+1D heat loss models to predict the aquifer temperature profile during hot/cold water injection. 
+GRC Transactions.
